@@ -1,0 +1,5 @@
+#interface .navegation {
+    display: flex;
+    justify-content: space-between
+    
+}

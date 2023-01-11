@@ -91,10 +91,7 @@ body {
 #interface .navegation {
     background: #EDE5E3;
     padding: 80px 60px;
-    box-shadow: 1px 1px 10px rgba(122, 120, 120, 0.8);
-    display: flex;
-    justify-content: space-between
-    
+    box-shadow: 1px 1px 10px rgba(122, 120, 120, 0.8);    
 }
 
 #interface .navegation h3 {
