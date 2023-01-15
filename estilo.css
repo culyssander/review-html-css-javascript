@@ -154,7 +154,7 @@ body {
 
 
 .board {
-    /* display: none; */
+    display: none;
     width: 96%;
     margin: 10px 48px 30px 0;
     overflow: auto;
